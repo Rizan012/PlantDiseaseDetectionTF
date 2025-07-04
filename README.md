@@ -29,7 +29,7 @@ Validation Accuracy: 96.0%
 
 ## Dataset
 
-- Source: `https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset`
+- Source: [Plant Disease Dataset (Kaggle)](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 - Training images: 70,295  
 - Validation images: 17,572  
 - Total Classes: 38 (e.g., `Tomato___Late_blight`, `Apple___healthy`, etc.)
